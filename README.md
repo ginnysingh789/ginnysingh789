@@ -29,17 +29,18 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
 </p>
-## My Stats :
+
 
 <a href="http://www.github.com/ginnysingh789">
   <img src="https://github-readme-stats.vercel.app/api?username=ginnysingh789&show_icons=true&hide=&count_private=true&title_color=ebdbb2&text_color=ebdbb2&icon_color=83a598&bg_color=282828&hide_border=true&show_icons=true&theme=gruvbox" alt="ginnysingh789's GitHub stats" />
 </a>
 
+## My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ginnysingh789&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginnysingh789&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ginnysingh789&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
