@@ -3,13 +3,8 @@
 <img src = "https://komarev.com/ghpvc/?username=ginnysingh789&color=orange&style=flat-square" alt ="Profile Views">
 
 ## About Me :
-
 - Believer of Waheguru...
-## My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ginnysingh789&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginnysingh789&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+## Skills :
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -34,3 +29,9 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
 </p>
+
+## My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ginnysingh789&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginnysingh789&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
