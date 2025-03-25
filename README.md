@@ -3,7 +3,7 @@
 <img src = "https://komarev.com/ghpvc/?username=ginnysingh789&color=orange&style=flat-square" alt ="Profile Views">
 
 ## About Me :
-- Believer of Waheguru...
+🌱 I’m currently learning
 ## Skills :
 
 <p align="left">
