@@ -13,19 +13,15 @@
   </a>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ginnysingh789&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ginnysingh789&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ginnysingh789&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=ginnysingh789&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ginnysingh789&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<a href="http://www.github.com/ginnysingh789">
-  <img src="https://github-readme-stats.vercel.app/api?username=ginnysingh789&show_icons=true&hide=&count_private=true&title_color=ebdbb2&text_color=ebdbb2&icon_color=83a598&bg_color=282828&hide_border=true&show_icons=true&theme=gruvbox" alt="ginnysingh789's GitHub stats" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginnysingh789&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
