@@ -2,8 +2,8 @@
 <!-- For profile views I used an opensource project https://github.com/antonkomarev/github-profile-views-counter -->
 <img src = "https://komarev.com/ghpvc/?username=ginnysingh789&color=orange&style=flat-square" alt ="Profile Views">
 
-## About Me :
-🌱 I’m currently learning
+# ![image](https://github.com/user-attachments/assets/fc697d05-bfc3-4557-8fea-adf3c01eb4d4) About Me:
+<br>🌱 I’m currently learning<br><br>
 ## Skills :
 
 <p align="left">
