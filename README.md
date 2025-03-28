@@ -3,7 +3,7 @@
 <img src = "https://komarev.com/ghpvc/?username=ginnysingh789&color=orange&style=flat-square" alt ="Profile Views">
 
 # About Me:
-<br>🌱 I’m currently learning<br><br>
+<br>🌱 I’m currently learning.<br><br>
 ## Skills :
 
 <p align="left">
